@@ -1,0 +1,3 @@
+C:/Users/70454/Desktop/algebra-main/bin/CMakeFiles/main.dir
+C:/Users/70454/Desktop/algebra-main/bin/CMakeFiles/edit_cache.dir
+C:/Users/70454/Desktop/algebra-main/bin/CMakeFiles/rebuild_cache.dir
